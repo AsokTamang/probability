@@ -25,7 +25,7 @@ The notebook walks through the **entire ML pipeline**:
 
 ---
 
-###code file
+## Code File
 spam_detection.ipynb
 
 ---
