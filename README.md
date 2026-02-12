@@ -25,9 +25,8 @@ The notebook walks through the **entire ML pipeline**:
 
 ---
 
-## 📂 Project Structure
-├── Untitled (1).ipynb # Main Jupyter notebook (model implementation)
-├── README.md # Project documentation
+###code file
+spam_detection.ipynb
 
 ---
 
