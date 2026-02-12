@@ -66,6 +66,7 @@ For each email:
 - Compute likelihood for **spam**
 - Compute likelihood for **ham**
 - Assign the class with higher probability
+- Also used log-probabilities to avoid numerical underflow 
 
 ---
 
@@ -109,7 +110,6 @@ This gives a clear understanding of how well the model performs on unseen data.
 ---
 
 ## 📈 Future Improvements
-- Use log-probabilities to avoid numerical underflow
 - Add precision, recall, and F1-score
 - Compare with `sklearn` Naive Bayes
 - Extend to bigram or TF-IDF features
